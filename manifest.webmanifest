@@ -1,0 +1,24 @@
+{
+  "name": "TSV Nettelkamp Handball-Manager",
+  "short_name": "TSV Handball",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#176b45",
+  "description": "TSV Nettelkamp Handball-Manager – V1.0.0-RC1 Go-live-Test",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
